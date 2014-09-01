@@ -2,11 +2,31 @@
 # Associate internals original text with physical files.
 
 
+$key = q/cite_Christian/;
+$ref_files{$key} = "$dir".q|node10.html|; 
+$noresave{$key} = "$nosave";
+
+$key = q/cite_Marshall/;
+$ref_files{$key} = "$dir".q|node10.html|; 
+$noresave{$key} = "$nosave";
+
+$key = q/cite_vogel/;
+$ref_files{$key} = "$dir".q|node10.html|; 
+$noresave{$key} = "$nosave";
+
+$key = q/cite_definitive/;
+$ref_files{$key} = "$dir".q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_Follansbee/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
 $key = q/cite_chacon/;
+$ref_files{$key} = "$dir".q|node10.html|; 
+$noresave{$key} = "$nosave";
+
+$key = q/cite_jumpstart/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
@@ -19,22 +39,6 @@ $ref_files{$key} = "$dir".q|node10.html|;
 $noresave{$key} = "$nosave";
 
 $key = q/cite_Hartl/;
-$ref_files{$key} = "$dir".q|node10.html|; 
-$noresave{$key} = "$nosave";
-
-$key = q/cite_Christian/;
-$ref_files{$key} = "$dir".q|node10.html|; 
-$noresave{$key} = "$nosave";
-
-$key = q/cite_Marshall/;
-$ref_files{$key} = "$dir".q|node10.html|; 
-$noresave{$key} = "$nosave";
-
-$key = q/cite_definitive/;
-$ref_files{$key} = "$dir".q|node10.html|; 
-$noresave{$key} = "$nosave";
-
-$key = q/cite_vogel/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
