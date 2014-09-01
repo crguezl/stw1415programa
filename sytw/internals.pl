@@ -2,6 +2,10 @@
 # Associate internals original text with physical files.
 
 
+$key = q/cite_jumpstartcss/;
+$ref_files{$key} = "$dir".q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_Christian/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";

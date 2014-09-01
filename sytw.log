@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.1.18)  1 SEP 2014 16:32
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.1.18)  1 SEP 2014 16:34
 entering extended mode
  %&-line parsing enabled.
 **sytw.tex
@@ -118,28 +118,28 @@ tudios[]docencia/calendario/calendario[]grado201415.pdf.
 
 [1
 
-] [2] [3] (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
+] [2] [3] [4] (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
-) [4]
-Overfull \hbox (76.53497pt too wide) in paragraph at lines 378--386
+)
+Overfull \hbox (76.53497pt too wide) in paragraph at lines 379--387
 \OT1/cmr/m/n/10.95 HTML en []\OT1/cmtt/m/n/10.95 http://nereida.deioc.ull.es/~l
 pp/perlexamples/perlexamples.html\OT1/cmr/m/n/10.95 . 
  []
 
 
-Overfull \hbox (10.38982pt too wide) in paragraph at lines 387--390
+Overfull \hbox (10.38982pt too wide) in paragraph at lines 388--391
 []\OT1/cmr/m/n/10.95 Vogel, Lars. \OT1/cmr/m/it/10.95 Git Tu-to-rial \OT1/cmr/m
 /n/10.95 http://www.vogella.de/articles/Git/article.html
  []
 
 [5] (./sytw.aux) ) 
 Here is how much of TeX's memory you used:
- 2151 strings out of 493858
- 26342 string characters out of 1153328
+ 2152 strings out of 493858
+ 26356 string characters out of 1153328
  83915 words of memory out of 3000000
- 5462 multiletter control sequences out of 15000+50000
+ 5463 multiletter control sequences out of 15000+50000
  9018 words of font info for 32 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  24i,6n,27p,344b,594s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sytw.dvi (5 pages, 10532 bytes).
+Output written on sytw.dvi (5 pages, 10612 bytes).

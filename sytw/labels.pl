@@ -2,6 +2,10 @@
 # Associate labels original text with physical files.
 
 
+$key = q/cite_jumpstartcss/;
+$external_labels{$key} = "$URL/" . q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_Christian/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
