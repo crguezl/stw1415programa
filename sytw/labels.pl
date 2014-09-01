@@ -22,6 +22,10 @@ $key = q/cite_definitive/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
+$key = q/cite_jumpstartnode/;
+$external_labels{$key} = "$URL/" . q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_Follansbee/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
