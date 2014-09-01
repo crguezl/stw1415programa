@@ -38,6 +38,10 @@ $key = q/cite_Dix/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
+$key = q/cite_crockford/;
+$ref_files{$key} = "$dir".q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_rodlppruby/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";

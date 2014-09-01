@@ -38,6 +38,10 @@ $key = q/cite_Dix/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
+$key = q/cite_crockford/;
+$external_labels{$key} = "$URL/" . q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_rodlppruby/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
