@@ -27,7 +27,7 @@ zip:
 	zip -r sytw.zip sytw
 
 public: 
-	git ci -am 'new version'
+	git push origin gh-pages
 
 setimages: 
 	cp images/* sytw/
