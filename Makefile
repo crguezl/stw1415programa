@@ -27,8 +27,7 @@ zip:
 	zip -r sytw.zip sytw
 
 public: 
-	cp sytw.pdf sytw.zip sytw/
-	rsync -av sytw/ ~/Dropbox/Public/STW/1314/programa_sytw_1314/
+	git ci -am 'new version'
 
 setimages: 
 	cp images/* sytw/
