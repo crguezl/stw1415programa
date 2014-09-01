@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.1.18)  1 SEP 2014 13:29
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.1.18)  1 SEP 2014 13:34
 entering extended mode
  %&-line parsing enabled.
 **sytw.tex
@@ -119,21 +119,21 @@ tudios[]docencia/calendario/calendario[]grado201415.pdf.
 [1
 
 ]
-Overfull \hbox (15.46268pt too wide) in paragraph at lines 121--122
+Overfull \hbox (15.46268pt too wide) in paragraph at lines 126--127
 []\OT1/cmr/m/n/10.95 Ruby's ERB tem-pla-ting sys-tem http://rrn.dk/rubys-erb-te
 mplating-
  []
 
-[2] [3] [4] (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
+[2] [3] [4] [5] (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
-) [5]
-Overfull \hbox (76.53497pt too wide) in paragraph at lines 303--311
+)
+Overfull \hbox (76.53497pt too wide) in paragraph at lines 308--316
 \OT1/cmr/m/n/10.95 HTML en []\OT1/cmtt/m/n/10.95 http://nereida.deioc.ull.es/~l
 pp/perlexamples/perlexamples.html\OT1/cmr/m/n/10.95 . 
  []
 
 
-Overfull \hbox (10.38982pt too wide) in paragraph at lines 312--315
+Overfull \hbox (10.38982pt too wide) in paragraph at lines 317--320
 []\OT1/cmr/m/n/10.95 Vogel, Lars. \OT1/cmr/m/it/10.95 Git Tu-to-rial \OT1/cmr/m
 /n/10.95 http://www.vogella.de/articles/Git/article.html
  []
@@ -148,4 +148,4 @@ Here is how much of TeX's memory you used:
  714 hyphenation exceptions out of 8191
  24i,6n,27p,344b,594s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sytw.dvi (6 pages, 12848 bytes).
+Output written on sytw.dvi (6 pages, 13228 bytes).
