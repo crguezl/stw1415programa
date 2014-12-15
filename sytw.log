@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.1.18)  15 DEC 2014 16:13
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.1.18)  15 DEC 2014 16:21
 entering extended mode
  %&-line parsing enabled.
 **sytw.tex
@@ -143,4 +143,4 @@ Here is how much of TeX's memory you used:
  714 hyphenation exceptions out of 8191
  24i,6n,27p,344b,594s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sytw.dvi (7 pages, 13568 bytes).
+Output written on sytw.dvi (7 pages, 13592 bytes).
