@@ -10,6 +10,10 @@ $key = q/cite_Christian/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
+$key = q/cite_sinatraup/;
+$ref_files{$key} = "$dir".q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_Marshall/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
@@ -70,11 +74,11 @@ $key = q/cite_Al/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
-$key = q/cite_Richardson/;
+$key = q/cite_Fox/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
-$key = q/cite_Fox/;
+$key = q/cite_Richardson/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 

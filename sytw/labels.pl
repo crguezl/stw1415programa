@@ -10,6 +10,10 @@ $key = q/cite_Christian/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
+$key = q/cite_sinatraup/;
+$external_labels{$key} = "$URL/" . q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_Marshall/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
@@ -70,11 +74,11 @@ $key = q/cite_Al/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
-$key = q/cite_Richardson/;
+$key = q/cite_Fox/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
-$key = q/cite_Fox/;
+$key = q/cite_Richardson/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
