@@ -135,10 +135,10 @@ Overfull \hbox (10.38982pt too wide) in paragraph at lines 430--433
 
 [7] (./sytw.aux) ) 
 Here is how much of TeX's memory you used:
- 2154 strings out of 493858
- 26382 string characters out of 1153328
+ 2151 strings out of 493858
+ 26346 string characters out of 1153328
  84915 words of memory out of 3000000
- 5465 multiletter control sequences out of 15000+50000
+ 5462 multiletter control sequences out of 15000+50000
  9018 words of font info for 32 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  24i,6n,27p,344b,594s stack positions out of 5000i,500n,10000p,200000b,50000s
