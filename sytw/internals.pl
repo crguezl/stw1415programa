@@ -42,6 +42,10 @@ $key = q/cite_jumpstart/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
+$key = q/cite_darrenjones/;
+$ref_files{$key} = "$dir".q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_Dix/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
@@ -58,11 +62,11 @@ $key = q/cite_Hartl/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
-$key = q/cite_Fowler/;
+$key = q/cite_Bell/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 
-$key = q/cite_Bell/;
+$key = q/cite_Fowler/;
 $ref_files{$key} = "$dir".q|node10.html|; 
 $noresave{$key} = "$nosave";
 

@@ -42,6 +42,10 @@ $key = q/cite_jumpstart/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
+$key = q/cite_darrenjones/;
+$external_labels{$key} = "$URL/" . q|node10.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/cite_Dix/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
@@ -58,11 +62,11 @@ $key = q/cite_Hartl/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
-$key = q/cite_Fowler/;
+$key = q/cite_Bell/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
-$key = q/cite_Bell/;
+$key = q/cite_Fowler/;
 $external_labels{$key} = "$URL/" . q|node10.html|; 
 $noresave{$key} = "$nosave";
 
