@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.1.18)  15 DEC 2014 16:11
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.1.18)  15 DEC 2014 16:12
 entering extended mode
  %&-line parsing enabled.
 **sytw.tex
@@ -135,12 +135,12 @@ Overfull \hbox (10.38982pt too wide) in paragraph at lines 430--433
 
 [7] (./sytw.aux) ) 
 Here is how much of TeX's memory you used:
- 2151 strings out of 493858
- 26346 string characters out of 1153328
+ 2154 strings out of 493858
+ 26382 string characters out of 1153328
  84915 words of memory out of 3000000
- 5462 multiletter control sequences out of 15000+50000
+ 5465 multiletter control sequences out of 15000+50000
  9018 words of font info for 32 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  24i,6n,27p,344b,594s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sytw.dvi (7 pages, 13496 bytes).
+Output written on sytw.dvi (7 pages, 13516 bytes).
